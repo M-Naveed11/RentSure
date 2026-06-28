@@ -31,3 +31,4 @@ Thumbs.db
 # Uploads / temp
 *.pdf
 /tmp/
+.claude/
