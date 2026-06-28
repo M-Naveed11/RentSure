@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cat /tmp/nextjs2.txt 2>&1)",
+      "Read(//private/tmp/**)"
+    ]
+  }
+}
